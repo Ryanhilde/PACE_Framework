@@ -27,7 +27,7 @@ Documentation for ARX methods and tools can be found here: https://arx.deidentif
 
 <h1>How to run PACE </h1>
 
-<h4 Part 1: Control-Flow Anonymization </h4> Start with loading the files in Component 1 into an IDE. Select the event log you would like to anonymize and the K parameter inside of ApplyK.py.
+<h4> Part 1: Control-Flow Anonymization </h4> Start with loading the files in Component 1 into an IDE. Select the event log you would like to anonymize and the K parameter inside of ApplyK.py.
 Run this code and specify the output file to write the log to.
 
 <h4> Part 2: Attribute Anonymization</h4> Plug the ARX files into a Java environment with ARX's specified dependencies (see **Requirements**). Each file must be individually run with the specified K vlaue. 
