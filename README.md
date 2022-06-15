@@ -20,6 +20,7 @@ We are using Python 3.7 and cannot guarentee this will run on previous versions.
 <h3> Java Packages </h3>
 
 The ARX Framework has a list of requirements to run: https://arx.deidentifier.org/development/dependencies/
+
 We recommend pulling their github repo and adding our code into the examples folder. 
 
 The repo can be found here: https://github.com/arx-deidentifier/arx 
