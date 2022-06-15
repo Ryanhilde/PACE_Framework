@@ -44,10 +44,6 @@ def apply_privacy():
             encoding = Anonymize_resource_country_encoding.resource_country_encoding(log_csv, i)
             csv_file = Convert_Log.Convert_Log(encoding.apply_privacy(privacy_log, event_log))
             csv_file_df = csv_file.convert_from_xes_to_csv()
-            #csv_file_df.drop(
-            #    ['org:group', 'org:resource', 'organization country', 'organization involved', 'org:role', 'impact',
-            #     'product'],
-            #    inplace=True, axis=1)
 
             total_event_log.append(csv_file_df)
 
