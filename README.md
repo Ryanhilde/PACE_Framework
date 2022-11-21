@@ -38,4 +38,4 @@ Run this code and specify the output file to write the log to.
 <h4> Part 4: Organizational Mining Experiments</h4> You can run the experiments for handovers and decision trees by running the scipts in the Experiments folder. These experiments are created using PM4PY, and the any additional documentation to run them can be found at https://pm4py.fit.fraunhofer.de. 
 
 <h1> How to contact us </h1>
-PACE was developed through a collaboration with San Diego State University and Humboldt-Universität zu Berlin. If you want to contact us, please email rhildebrant@sdsu.edu. 
+PMDG was developed through a collaboration with UC Irvine, San Diego State University and Humboldt-Universität zu Berlin. If you want to contact us, please email rhildebr@uci.edu. 
